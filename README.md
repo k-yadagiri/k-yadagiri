@@ -53,6 +53,5 @@ I’m a _Computer Science and Engineering with specialization in Artificial inte
 ## 📫 Connect With Me
 
 - 📧 Email: [giriyadagiri30@gmail.com](mailto:giriyadagiri30@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/k-yadagiri)
-- 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/k-yadagiri) 
 
