@@ -1,12 +1,12 @@
 <!-- Animated Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=230&section=header&text=Yadagiri%20&fontSize=45&fontAlignY=38&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=160&section=header&text=Yadagiri&fontSize=40&fontAlignY=32&animation=fadeIn)
 
 <!-- Typing Animation -->
-<h1 align="center">
+<h2 align="center">
   <a href="https://github.com/k-yadagiri">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=28&center=true&vCenter=true&width=900&height=80&lines=Data+Scientist+%7C+AI+%26+ML+Engineer+%7C+GenAI+Developer;Machine+Learning+%7C+Deep+Learning+%7C+LLM+Applications;Data+Analytics+%7C+Business+Intelligence+%7C+FastAPI+Deployments;Turning+Data+Into+Intelligence+%26+AI+Into+Impact" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=900&height=60&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+LLM+Apps;Data+Analytics+%7C+FastAPI+Deployments;Turning+Data+Into+Intelligence" />
   </a>
-</h1>
+</h2>
 
 ---
 
