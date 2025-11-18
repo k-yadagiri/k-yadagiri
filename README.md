@@ -20,7 +20,7 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
 
 
 📝 Bangalore, India  
-    📧 **[Gmail]("giriyadagiri30@gmail.com")**  
+    📧 **[giriyadagiri30@gmail.com](mailto:giriyadagiri30@gmail.com)**
     🌐 **[LinkedIn](https://linkedin.com/in/k-yadagiri)**  
     😺 **[Portfolio](https://github.com/k-yadagiri)**  
 ---
@@ -83,12 +83,12 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
 # 📊 **GitHub Analytics**
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudhakardamarasingi&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakardamarasingi&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=k-yadagiri&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-yadagiri&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
- <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Sudhakardamarasingi&theme=tokyonight" />
+ <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=k-yadagiri&theme=tokyonight" />
 </p>
 
 ---
