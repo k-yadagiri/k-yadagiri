@@ -1,5 +1,5 @@
 <!-- Animated Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=230&section=header&text=Sudhakar%20Damarasingi&fontSize=45&fontAlignY=38&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=230&section=header&text=Yadagiri%20&fontSize=45&fontAlignY=38&animation=fadeIn)
 
 <!-- Typing Animation -->
 <h1 align="center">
