@@ -16,7 +16,9 @@ from *A1 Global College (2025)*.
 I am passionate about building **end-to-end AI solutions** by integrating **machine learning, data analytics, automation, and
 interactive applications** using tools like **FastAPI, Streamlit, and Power BI Service**.
 
---- 
+My work includes predictive analytics, LLM applications, dashboarding, automation and building scalable AI pipelines.
+
+
 📝 Bangalore, India  
 📧 **[Gmail]("giriyadagiri30@gmail.com")**  
 🔗 **[LinkedIn](https://linkedin.com/in/k-yadagiri)**  
