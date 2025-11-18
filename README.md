@@ -11,42 +11,16 @@
 ---
 
 # 👩🏻‍💼 **About Me**
-I recently completed my **B.Tech in Computer Science and Engineering**, specializing in **Artificial Intelligence and Data Science** from *A1 Global College (2025)*.
-I am passionate about building **end-to-end AI solutions** by integrating **machine learning, data analytics, automation, and interactive applications** using tools like **FastAPI, Streamlit, and Power BI Service**.
-### 🧠 What I Do
+I recently completed my **B.Tech in Computer Science and Engineering**, specializing in **Artificial Intelligence and Data Science** 
+from *A1 Global College (2025)*.
+I am passionate about building **end-to-end AI solutions** by integrating **machine learning, data analytics, automation, and
+interactive applications** using tools like **FastAPI, Streamlit, and Power BI Service**.
 
-I build intelligent systems in:
-
-- EDA & Dashboarding  
-- Machine Learning & Deep Learning  
-- NLP & Generative AI  
-- AI Web Apps & APIs (Streamlit, FastAPI)  
-- Business Intelligence (Power BI)
-
----
-
-### 🏗️ Projects
-
-- 🛒 **Adidas Sales Analysis** (Power BI)  
-- 📊 **Naukri Job EDA** (Python)  
-- 💼 **Employee Management System** (SQL)  
-- 🔄 **Churn Prediction App** (ML + Streamlit)  
-- 🚗 **Used Car Price Predictor** (ML)
-
----
-
-### 📚 Currently Learning
-
-Pursuing an internship on **Generative AI & Agentic Systems**, covering:
-
-- LLMs, LangChain, AI Agents  
-- Vector DBs & real-time deployments  
-
+--- 
 📝 Bangalore, India  
 📧 **[Gmail]("giriyadagiri30@gmail.com")**  
 🔗 **[LinkedIn](https://linkedin.com/in/k-yadagiri)**  
 🔗 **[Portfolio](https://github.com/k-yadagiri)**  
-
 ---
 
 # 💪🌟 **Skills**
