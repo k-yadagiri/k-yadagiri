@@ -25,20 +25,58 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
     😺 **[Portfolio](https://github.com/k-yadagiri)**  
 ---
 
-# 💪🌟 **Skills**
+### _Core tools and technologies I use for AI, data science, automation and deployment_
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
+---
+
+## 🤖 AI / Machine Learning / Deep Learning
+![GenAI](https://img.shields.io/badge/Generative%20AI-FED300?logo=openai&logoColor=000)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=keras&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-FED300?logo=openai&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-CC0000?logo=apache&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?logo=openai&logoColor=white)
+
+---
+
+## 🧠 LLM / GenAI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-20232A?logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 Data Science & Analytics
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-1E90FF?logo=databricks&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4B0082?logo=buffer&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=000)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🛢 Databases & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 🔧 Programming Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)
+
+---
+
+## ⚙️ Automation & Workflows
+![n8n](https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?logo=python&logoColor=white)
+
+---
+
+## 🐳 DevOps & Deployment
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 
 ---
 
