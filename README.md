@@ -266,8 +266,27 @@ Ready to join immediately and open to relocation.
 # 🤝 **Let's Connect**
 
 <p align="left">
-  <a href="https://linkedin.com/in/k-yadagiri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/k-yadagiri"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" /></a>
+
+ <!-- WhatsApp -->
+  <a href="https://wa.me/9347193318" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:giriyadagiri30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/k-yadagiri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/k-yadagiri" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" />
+  </a>
+
 </p>
 
 ---
