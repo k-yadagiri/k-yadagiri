@@ -14,9 +14,7 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
 
 
 📝 Bangalore, India  
-📧 **[giriyadagiri30@gmail.com](mailto:giriyadagiri30@gmail.com)**
-🌐 **[LinkedIn](https://linkedin.com/in/k-yadagiri)**  
-😺 **[Portfolio](https://github.com/k-yadagiri)**  
+📧 **[giriyadagiri30@gmail.com](mailto:giriyadagiri30@gmail.com)**, 🌐 **[LinkedIn](https://linkedin.com/in/k-yadagiri)**, 😺 **[Portfolio](https://github.com/k-yadagiri)**  
 
 ---
 
